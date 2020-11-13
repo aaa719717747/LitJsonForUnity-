@@ -1,0 +1,3 @@
+# LitJsonForUnity-
+这是一个用于Unity持久化恢复的Litjson工具，可以非常方便为单机游戏做持久化存储。
+并提供Rijndael加密算法支持
